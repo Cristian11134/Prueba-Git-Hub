@@ -1,3 +1,3 @@
 # programacionreactiva
 
-hola profe
+espero este bien
